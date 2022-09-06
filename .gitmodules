@@ -1,0 +1,6 @@
+[submodule "course_enroll_backend"]
+	path = course_enroll_backend
+	url = https://github.com/udbbj0630/course_enroll_backend.git
+[submodule "course_enroll_frontend"]
+	path = course_enroll_frontend
+	url = https://github.com/udbbj0630/course_enroll_frontend.git
